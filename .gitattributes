@@ -1,0 +1,3 @@
+# Keep generated source archives tidy for WordPress plugin installs.
+/.gitignore export-ignore
+/.gitattributes export-ignore
