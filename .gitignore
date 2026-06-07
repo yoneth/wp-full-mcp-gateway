@@ -1,0 +1,10 @@
+.DS_Store
+*.zip
+*.tar
+*.tar.gz
+*.bak-*
+wp-full-mcp-backups/
+node_modules/
+vendor/
+.idea/
+.vscode/
