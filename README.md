@@ -175,4 +175,4 @@ GPL-2.0-or-later. See [LICENSE](LICENSE).
 
 ## Credits
 
-Built by Djavaweb / Dul for practical WordPress automation through MCP.
+Built by Rio & Dul for practical WordPress automation through MCP.
